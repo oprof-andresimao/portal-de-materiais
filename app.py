@@ -91,7 +91,7 @@ def gdrive_direct(url: str) -> str:
 # ----------------- LOGOS -----------------
 # DICA: em Windows, prefira caminho "raw string" r"G:\\..." ou use '/'.
 # ----------------- LOGOS -----------------
-SITE_LOGO = "logos/site_logo.png"
+SITE_LOGO = "logos/logo.png"
 LOGO_EEM  = "logos/logo_bailarina.png"
 LOGO_EEB  = "logos/logo2_senador.png"
 
