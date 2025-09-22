@@ -180,7 +180,8 @@ DATA = {
         "EEM Bailarina Liselott Trinks": {
             "Atividades & Avaliações": [ {"titulo": "Atividade complementar – 19/09", "url": "https://drive.google.com/file/d/12gkMBOotsyT0A1OaeU8kltQp1tohcsdo/view?usp=sharing"},
                                         {"titulo": "Atividade complementar – 26/09", "url": "https://drive.google.com/file/d/1O3jq0ZSO1DBnVpa_HqufQnLCa5YNoB6K/view?usp=sharing"},
-                                        {"titulo": "Atividade complementar – 03/10", "url": "https://drive.google.com/file/d/1R8tOYK_7v6kF5FhdU8AjhYt-kj-X8Eue/view?usp=sharing"}
+                                        {"titulo": "Atividade complementar – 03/10", "url": "https://drive.google.com/file/d/1R8tOYK_7v6kF5FhdU8AjhYt-kj-X8Eue/view?usp=sharing"},
+                                        {"titulo": "Atividade complementar – 10/10", "url": "https://drive.google.com/file/d/1JpqKg2bvKgZwneqfMe1lWTVjXGm7RiJ3/view?usp=sharing"},
             ],
             "Material de Apoio": [
                 {"titulo": "Slides – Tabela Periódica", "url": "https://docs.google.com/presentation/d/1dU0kTUzYBwxkUS4vqNZls3UqjSQAFA-t/edit?usp=sharing&ouid=107269659950309178973&rtpof=true&sd=true"},
