@@ -178,7 +178,7 @@ DATA = {
     },
         "1º Logística": {
         "EEM Bailarina Liselott Trinks": {
-            "Atividades & Avaliações": [
+            "Atividades & Avaliações": [ {"titulo": "Atividade complementar – 19/09", "url": "https://drive.google.com/file/d/12gkMBOotsyT0A1OaeU8kltQp1tohcsdo/view?usp=sharing"},
                
             ],
             "Material de Apoio": [
