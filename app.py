@@ -128,7 +128,7 @@ DATA = {
             ],
             "Material de Apoio": [
                 {"titulo": "Slides - Radioatividade", "url": "https://docs.google.com/presentation/d/15nIHyX5NmGveInt_UkpPn56HwO7DO6xk/edit?usp=sharing&ouid=107269659950309178973&rtpof=true&sd=true"},
-                {"titulo": "Slides - Radioatividade", "url": "https://drive.google.com/file/d/1QNnDtHVX9sqvfQFq6OqHNbKbr-_qeSZe/view?usp=sharing"},
+                {"titulo": "Apostila - Radioatividade", "url": "https://drive.google.com/file/d/1QNnDtHVX9sqvfQFq6OqHNbKbr-_qeSZe/view?usp=sharing"},
                 {"titulo": "Slides - Equilíbrio químico", "url": "https://docs.google.com/presentation/d/13mPcbGS7y_lGwz9MYCWvFZMPTigY24-s/edit?usp=sharing&ouid=107269659950309178973&rtpof=true&sd=true"},
                 {"titulo": "Apostila - Equilíbrio químico", "url": "https://drive.google.com/file/d/1p4ePY8aiDr_AteUHAkkmv-bt_EgsmVVv/view?usp=sharing"}
             ],
@@ -142,7 +142,7 @@ DATA = {
             ],
             "Material de Apoio": [
                 {"titulo": "Slides - Radioatividade", "url": "https://docs.google.com/presentation/d/15nIHyX5NmGveInt_UkpPn56HwO7DO6xk/edit?usp=sharing&ouid=107269659950309178973&rtpof=true&sd=true"},
-                {"titulo": "Slides - Radioatividade", "url": "https://drive.google.com/file/d/1QNnDtHVX9sqvfQFq6OqHNbKbr-_qeSZe/view?usp=sharing"},
+                {"titulo": "Apostila - Radioatividade", "url": "https://drive.google.com/file/d/1QNnDtHVX9sqvfQFq6OqHNbKbr-_qeSZe/view?usp=sharing"},
                 {"titulo": "Slides - Equilíbrio químico", "url": "https://docs.google.com/presentation/d/13mPcbGS7y_lGwz9MYCWvFZMPTigY24-s/edit?usp=sharing&ouid=107269659950309178973&rtpof=true&sd=true"},
                 {"titulo": "Apostila - Equilíbrio químico", "url": "https://drive.google.com/file/d/1p4ePY8aiDr_AteUHAkkmv-bt_EgsmVVv/view?usp=sharing"}
             ],
@@ -179,7 +179,7 @@ DATA = {
         "1º Logística": {
         "EEM Bailarina Liselott Trinks": {
             "Atividades & Avaliações": [ {"titulo": "Atividade complementar – 19/09", "url": "https://drive.google.com/file/d/12gkMBOotsyT0A1OaeU8kltQp1tohcsdo/view?usp=sharing"},
-               
+                                        {"titulo": "Atividade complementar – 26/09", "url": "https://drive.google.com/file/d/1O3jq0ZSO1DBnVpa_HqufQnLCa5YNoB6K/view?usp=sharing"},
             ],
             "Material de Apoio": [
                 {"titulo": "Slides – Tabela Periódica", "url": "https://docs.google.com/presentation/d/1dU0kTUzYBwxkUS4vqNZls3UqjSQAFA-t/edit?usp=sharing&ouid=107269659950309178973&rtpof=true&sd=true"},
@@ -207,7 +207,7 @@ DATA = {
             ],
             "Material de Apoio": [
                 {"titulo": "Slides - Radioatividade", "url": "https://docs.google.com/presentation/d/15nIHyX5NmGveInt_UkpPn56HwO7DO6xk/edit?usp=sharing&ouid=107269659950309178973&rtpof=true&sd=true"},
-                {"titulo": "Slides - Radioatividade", "url": "https://drive.google.com/file/d/1QNnDtHVX9sqvfQFq6OqHNbKbr-_qeSZe/view?usp=sharing"},
+                {"titulo": "Apostila - Radioatividade", "url": "https://drive.google.com/file/d/1QNnDtHVX9sqvfQFq6OqHNbKbr-_qeSZe/view?usp=sharing"},
                 {"titulo": "Slides - Equilíbrio químico", "url": "https://docs.google.com/presentation/d/13mPcbGS7y_lGwz9MYCWvFZMPTigY24-s/edit?usp=sharing&ouid=107269659950309178973&rtpof=true&sd=true"},
                 {"titulo": "Apostila - Equilíbrio químico", "url": "https://drive.google.com/file/d/1p4ePY8aiDr_AteUHAkkmv-bt_EgsmVVv/view?usp=sharing"}
             ],
