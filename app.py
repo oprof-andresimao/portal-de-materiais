@@ -124,7 +124,8 @@ DATA = {
     "2º Série": {
         "EEM Bailarina Liselott Trinks": {
             "Atividades & Avaliações": [
-            {"titulo": "Atividade - Equilíbrio químico", "url": "https://drive.google.com/file/d/1D_NlegUcda_NnnO6kCI_Onzof4p0eXF3/view?usp=drive_link"}   
+                {"titulo": "Atividade - Equilíbrio químico", "url": "https://drive.google.com/file/d/1D_NlegUcda_NnnO6kCI_Onzof4p0eXF3/view?usp=drive_link"},  
+                
             ],
             "Material de Apoio": [
                 {"titulo": "Slides - Radioatividade", "url": "https://docs.google.com/presentation/d/15nIHyX5NmGveInt_UkpPn56HwO7DO6xk/edit?usp=sharing&ouid=107269659950309178973&rtpof=true&sd=true"},
@@ -138,7 +139,7 @@ DATA = {
         },
         "EEB Senador Rodrigo Lobo": {
             "Atividades & Avaliações": [
-                {"titulo": "Atividade - Equilíbrio químico", "url": "https://drive.google.com/file/d/1D_NlegUcda_NnnO6kCI_Onzof4p0eXF3/view?usp=drive_link"}
+                {"titulo": "Atividade - Equilíbrio químico", "url": "https://drive.google.com/file/d/1D_NlegUcda_NnnO6kCI_Onzof4p0eXF3/view?usp=drive_link"},
             ],
             "Material de Apoio": [
                 {"titulo": "Slides - Radioatividade", "url": "https://docs.google.com/presentation/d/15nIHyX5NmGveInt_UkpPn56HwO7DO6xk/edit?usp=sharing&ouid=107269659950309178973&rtpof=true&sd=true"},
