@@ -160,6 +160,8 @@ DATA = {
             "Material de Apoio": [
                 {"titulo": "Slides – Funções orgânicas", "url": "https://docs.google.com/presentation/d/1qdufAHHERWf8uzfYzb2xk1Mn-dR8XGff/edit?usp=sharing&ouid=107269659950309178973&rtpof=true&sd=true"},
                 {"titulo": "Apostila – Funções orgânicas", "url": "https://drive.google.com/file/d/117_ppWJozSc8zb00lCU1tUZ7vKE-F5d5/view?usp=sharing"},
+                {"titulo": "Slides – Propriedades físicas dos compostos orgânicos", "url": "https://docs.google.com/presentation/d/1EVfdZ272Z8rWrv-YFTTdBw_vH2hVH9Oa/edit?usp=drive_link&ouid=107269659950309178973&rtpof=true&sd=true"},
+                {"titulo": "Apostila – Propriedades físicas dos compostos orgânicos", "url": "https://docs.google.com/document/d/1v_enyU2WKq7pau5EFWTfUwCfNfpcpSCj/edit?usp=sharing&ouid=107269659950309178973&rtpof=true&sd=true"},
             ],
             "Lista de Exercícios": []
               
@@ -171,6 +173,8 @@ DATA = {
             "Material de Apoio": [
                 {"titulo": "Slides – Funções orgânicas", "url": "https://docs.google.com/presentation/d/1qdufAHHERWf8uzfYzb2xk1Mn-dR8XGff/edit?usp=sharing&ouid=107269659950309178973&rtpof=true&sd=true"},
                 {"titulo": "Apostila – Funções orgânicas", "url": "https://drive.google.com/file/d/117_ppWJozSc8zb00lCU1tUZ7vKE-F5d5/view?usp=sharing"},
+                {"titulo": "Slides – Propriedades físicas dos compostos orgânicos", "url": "https://docs.google.com/presentation/d/1EVfdZ272Z8rWrv-YFTTdBw_vH2hVH9Oa/edit?usp=drive_link&ouid=107269659950309178973&rtpof=true&sd=true"},
+                {"titulo": "Apostila – Propriedades físicas dos compostos orgânicos", "url": "https://docs.google.com/document/d/1v_enyU2WKq7pau5EFWTfUwCfNfpcpSCj/edit?usp=sharing&ouid=107269659950309178973&rtpof=true&sd=true"},
             ],
             "Lista de Exercícios": [
               
