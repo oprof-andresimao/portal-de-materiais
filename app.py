@@ -109,9 +109,6 @@ DATA = {
                 {"titulo": "Slides - Ligações Intermoleculares - Parte 1", "url": "https://docs.google.com/presentation/d/1Srf1b_BJ3tz9it0NsqaFYErKuw2Xm02w/edit?usp=sharing&ouid=107269659950309178973&rtpof=true&sd=true"},
                 {"titulo": "Slides - Ligações Intermoleculares - Parte 2", "url": "https://docs.google.com/presentation/d/1ZkT_3nJ9-hD41-UF5nOeahdvtTrhyHFu/edit?usp=sharing&ouid=107269659950309178973&rtpof=true&sd=true"},
             ],
-            "Lista de Exercícios": [
-            ],
-            ],
             "Lista de Exercícios": [ ],
         },
         "EEB Senador Rodrigo Lobo": {
