@@ -100,7 +100,9 @@ LOGO_EEB  = "logos/logo2_senador.png"
 DATA = {
     "1º Série": {
         "EEM Bailarina Liselott Trinks": {
-            "Atividades & Avaliações": [],
+            "Atividades & Avaliações": [
+                 {"titulo": "Atividade – Epidemia de anabolizantes", "url": "https://drive.google.com/file/d/143fE5_e8t2TbkZ_t9DDnRO1jLfwZV8Yw/view?usp=sharing"},
+            ],
             "Material de Apoio": [
                 {"titulo": "Slides – Tabela Periódica", "url": "https://docs.google.com/presentation/d/1dU0kTUzYBwxkUS4vqNZls3UqjSQAFA-t/edit?usp=sharing&ouid=107269659950309178973&rtpof=true&sd=true"},
                 {"titulo": "Apostila - Tabela Periódica", "url": "https://docs.google.com/document/d/1rvzdJbx2NGvwyRYf7kpy78Kdd7WgH5ve/edit?usp=sharing&ouid=107269659950309178973&rtpof=true&sd=true"},
@@ -112,7 +114,9 @@ DATA = {
             "Lista de Exercícios": [ ],
         },
         "EEB Senador Rodrigo Lobo": {
-            "Atividades & Avaliações": [],
+            "Atividades & Avaliações": [
+                {"titulo": "Atividade – Epidemia de anabolizantes", "url": "https://drive.google.com/file/d/143fE5_e8t2TbkZ_t9DDnRO1jLfwZV8Yw/view?usp=sharing"},
+            ],
             "Material de Apoio": [
                 {"titulo": "Slides – Tabela Periódica", "url": "https://docs.google.com/presentation/d/1dU0kTUzYBwxkUS4vqNZls3UqjSQAFA-t/edit?usp=sharing&ouid=107269659950309178973&rtpof=true&sd=true"},
                 {"titulo": "Apostila - Tabela Periódica", "url": "https://docs.google.com/document/d/1rvzdJbx2NGvwyRYf7kpy78Kdd7WgH5ve/edit?usp=sharing&ouid=107269659950309178973&rtpof=true&sd=true"},
@@ -129,7 +133,7 @@ DATA = {
         "EEM Bailarina Liselott Trinks": {
             "Atividades & Avaliações": [
                 {"titulo": "Atividade - Equilíbrio químico", "url": "https://drive.google.com/file/d/1D_NlegUcda_NnnO6kCI_Onzof4p0eXF3/view?usp=drive_link"},  
-                
+                {"titulo": "Atividade – Epidemia de anabolizantes", "url": "https://drive.google.com/file/d/143fE5_e8t2TbkZ_t9DDnRO1jLfwZV8Yw/view?usp=sharing"},
             ],
             "Material de Apoio": [
                 {"titulo": "Slides - Radioatividade", "url": "https://docs.google.com/presentation/d/15nIHyX5NmGveInt_UkpPn56HwO7DO6xk/edit?usp=sharing&ouid=107269659950309178973&rtpof=true&sd=true"},
@@ -144,6 +148,7 @@ DATA = {
         "EEB Senador Rodrigo Lobo": {
             "Atividades & Avaliações": [
                 {"titulo": "Atividade - Equilíbrio químico", "url": "https://drive.google.com/file/d/1D_NlegUcda_NnnO6kCI_Onzof4p0eXF3/view?usp=drive_link"},
+                {"titulo": "Atividade – Epidemia de anabolizantes", "url": "https://drive.google.com/file/d/143fE5_e8t2TbkZ_t9DDnRO1jLfwZV8Yw/view?usp=sharing"},
             ],
             "Material de Apoio": [
                 {"titulo": "Slides - Radioatividade", "url": "https://docs.google.com/presentation/d/15nIHyX5NmGveInt_UkpPn56HwO7DO6xk/edit?usp=sharing&ouid=107269659950309178973&rtpof=true&sd=true"},
@@ -159,7 +164,7 @@ DATA = {
     "3º Série": {
         "EEM Bailarina Liselott Trinks": {
             "Atividades & Avaliações": [
-                
+                {"titulo": "Atividade – Epidemia de anabolizantes", "url": "https://drive.google.com/file/d/143fE5_e8t2TbkZ_t9DDnRO1jLfwZV8Yw/view?usp=sharing"},
             ],
             "Material de Apoio": [
                 {"titulo": "Slides – Funções orgânicas", "url": "https://docs.google.com/presentation/d/1qdufAHHERWf8uzfYzb2xk1Mn-dR8XGff/edit?usp=sharing&ouid=107269659950309178973&rtpof=true&sd=true"},
@@ -172,7 +177,7 @@ DATA = {
         },
         "EEB Senador Rodrigo Lobo": {
             "Atividades & Avaliações": [
-               
+               {"titulo": "Atividade – Epidemia de anabolizantes", "url": "https://drive.google.com/file/d/143fE5_e8t2TbkZ_t9DDnRO1jLfwZV8Yw/view?usp=sharing"},
             ],
             "Material de Apoio": [
                 {"titulo": "Slides – Funções orgânicas", "url": "https://docs.google.com/presentation/d/1qdufAHHERWf8uzfYzb2xk1Mn-dR8XGff/edit?usp=sharing&ouid=107269659950309178973&rtpof=true&sd=true"},
@@ -191,6 +196,7 @@ DATA = {
                                         {"titulo": "Atividade complementar – 26/09", "url": "https://drive.google.com/file/d/1O3jq0ZSO1DBnVpa_HqufQnLCa5YNoB6K/view?usp=sharing"},
                                         {"titulo": "Atividade complementar – 03/10", "url": "https://drive.google.com/file/d/1R8tOYK_7v6kF5FhdU8AjhYt-kj-X8Eue/view?usp=sharing"},
                                         {"titulo": "Atividade complementar – 10/10", "url": "https://drive.google.com/file/d/1JpqKg2bvKgZwneqfMe1lWTVjXGm7RiJ3/view?usp=sharing"},
+                                        {"titulo": "Atividade – Epidemia de anabolizantes", "url": "https://drive.google.com/file/d/143fE5_e8t2TbkZ_t9DDnRO1jLfwZV8Yw/view?usp=sharing"},
 
                                         
             ],
