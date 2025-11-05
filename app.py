@@ -139,7 +139,9 @@ DATA = {
                 {"titulo": "Slides - Radioatividade", "url": "https://docs.google.com/presentation/d/15nIHyX5NmGveInt_UkpPn56HwO7DO6xk/edit?usp=sharing&ouid=107269659950309178973&rtpof=true&sd=true"},
                 {"titulo": "Apostila - Radioatividade", "url": "https://drive.google.com/file/d/1QNnDtHVX9sqvfQFq6OqHNbKbr-_qeSZe/view?usp=sharing"},
                 {"titulo": "Slides - Equilíbrio químico", "url": "https://docs.google.com/presentation/d/13mPcbGS7y_lGwz9MYCWvFZMPTigY24-s/edit?usp=sharing&ouid=107269659950309178973&rtpof=true&sd=true"},
-                {"titulo": "Apostila - Equilíbrio químico", "url": "https://drive.google.com/file/d/1p4ePY8aiDr_AteUHAkkmv-bt_EgsmVVv/view?usp=sharing"}
+                {"titulo": "Apostila - Equilíbrio químico", "url": "https://drive.google.com/file/d/1p4ePY8aiDr_AteUHAkkmv-bt_EgsmVVv/view?usp=sharing"},
+                {"titulo": "Slides - Oxirredução", "url": "https://docs.google.com/presentation/d/13IpRKbqxPgm42Z2Jses49yZyqh01bN4t/edit?usp=sharing&ouid=107269659950309178973&rtpof=true&sd=true"},
+                {"titulo": "Apostila - Oxirredução", "url": "https://docs.google.com/document/d/1YpU7k_qUc81FqgV23Qb4RrqcyBAINybO/edit?usp=sharing&ouid=107269659950309178973&rtpof=true&sd=true"},
             ],
             "Lista de Exercícios": [
                 
@@ -154,7 +156,9 @@ DATA = {
                 {"titulo": "Slides - Radioatividade", "url": "https://docs.google.com/presentation/d/15nIHyX5NmGveInt_UkpPn56HwO7DO6xk/edit?usp=sharing&ouid=107269659950309178973&rtpof=true&sd=true"},
                 {"titulo": "Apostila - Radioatividade", "url": "https://drive.google.com/file/d/1QNnDtHVX9sqvfQFq6OqHNbKbr-_qeSZe/view?usp=sharing"},
                 {"titulo": "Slides - Equilíbrio químico", "url": "https://docs.google.com/presentation/d/13mPcbGS7y_lGwz9MYCWvFZMPTigY24-s/edit?usp=sharing&ouid=107269659950309178973&rtpof=true&sd=true"},
-                {"titulo": "Apostila - Equilíbrio químico", "url": "https://drive.google.com/file/d/1p4ePY8aiDr_AteUHAkkmv-bt_EgsmVVv/view?usp=sharing"}
+                {"titulo": "Apostila - Equilíbrio químico", "url": "https://drive.google.com/file/d/1p4ePY8aiDr_AteUHAkkmv-bt_EgsmVVv/view?usp=sharing"},
+                {"titulo": "Slides - Oxirredução", "url": "https://docs.google.com/presentation/d/13IpRKbqxPgm42Z2Jses49yZyqh01bN4t/edit?usp=sharing&ouid=107269659950309178973&rtpof=true&sd=true"},
+                {"titulo": "Apostila - Oxirredução", "url": "https://docs.google.com/document/d/1YpU7k_qUc81FqgV23Qb4RrqcyBAINybO/edit?usp=sharing&ouid=107269659950309178973&rtpof=true&sd=true"},
             ],
             "Lista de Exercícios": [
                 
