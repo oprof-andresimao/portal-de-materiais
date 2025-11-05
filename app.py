@@ -134,6 +134,7 @@ DATA = {
             "Atividades & Avaliações": [
                 {"titulo": "Atividade - Equilíbrio químico", "url": "https://drive.google.com/file/d/1D_NlegUcda_NnnO6kCI_Onzof4p0eXF3/view?usp=drive_link"},  
                 {"titulo": "Atividade – Epidemia de anabolizantes", "url": "https://drive.google.com/file/d/143fE5_e8t2TbkZ_t9DDnRO1jLfwZV8Yw/view?usp=sharing"},
+                {"titulo": "Atividade – Oxirredução", "url": "https://drive.google.com/file/d/13u1bBX30Auuj7BXaUHQgVQeByRYtX_Od/view?usp=sharing"},
             ],
             "Material de Apoio": [
                 {"titulo": "Slides - Radioatividade", "url": "https://docs.google.com/presentation/d/15nIHyX5NmGveInt_UkpPn56HwO7DO6xk/edit?usp=sharing&ouid=107269659950309178973&rtpof=true&sd=true"},
@@ -151,6 +152,7 @@ DATA = {
             "Atividades & Avaliações": [
                 {"titulo": "Atividade - Equilíbrio químico", "url": "https://drive.google.com/file/d/1D_NlegUcda_NnnO6kCI_Onzof4p0eXF3/view?usp=drive_link"},
                 {"titulo": "Atividade – Epidemia de anabolizantes", "url": "https://drive.google.com/file/d/143fE5_e8t2TbkZ_t9DDnRO1jLfwZV8Yw/view?usp=sharing"},
+                {"titulo": "Atividade – Oxirredução", "url": "https://drive.google.com/file/d/13u1bBX30Auuj7BXaUHQgVQeByRYtX_Od/view?usp=sharing"},
             ],
             "Material de Apoio": [
                 {"titulo": "Slides - Radioatividade", "url": "https://docs.google.com/presentation/d/15nIHyX5NmGveInt_UkpPn56HwO7DO6xk/edit?usp=sharing&ouid=107269659950309178973&rtpof=true&sd=true"},
